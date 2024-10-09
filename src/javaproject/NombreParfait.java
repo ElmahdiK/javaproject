@@ -37,7 +37,6 @@ public class NombreParfait {
 	    System.out.println(nombreAtester + " est un nombre " + (nombreParfait.isParfait(nombreAtester) ? "Parfait !": "non parfait"));
 	    System.out.println("\nLes diviseurs propres de " + nombreAtester +" sont "+nombreParfait.getListDiviseurPropre());
 	    int sumDiviseursPropres = nombreParfait.getListDiviseurPropre().stream().mapToInt(Integer::intValue).sum();
-	    System.out.println("La somme de ces diviseurs propres vaut : "+sumDiviseursPropres);
-	    
+	    System.out.println("La somme de ces diviseurs propres vaut : "+sumDiviseursPropres);	    
 	}
 }
