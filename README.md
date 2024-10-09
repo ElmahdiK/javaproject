@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./screenshot.png" />
+</p>
+
 # javaproject
 
 ## Initiation Java - Exercices

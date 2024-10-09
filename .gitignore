@@ -4,6 +4,7 @@
 # But not these files...
 !.gitignore
 !README.md
+!screenshot.png
 !/src
 !/src/javaproject
 !/src/javaproject/*
