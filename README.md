@@ -25,3 +25,6 @@ Ajout : Utilisez un tableau pour stocker chaque tentative de mot de passe incorr
 
 ## Exercice 1 : "Le calculateur de moyenne"
 Vous êtes chargé de concevoir un programme pour une école qui veut automatiser le calcul des moyennes de plusieurs élèves. Chaque élève a plusieurs notes, et le programme doit calculer la moyenne de chaque élève, ainsi que la moyenne générale de toute la classe.
+
+## Exercice 2 : "L'énigme du nombre parfait"
+Un nombre parfait est un nombre qui est égal à la somme de ses diviseurs propres (les diviseurs strictement inférieurs à lui-même). Par exemple, 6 est un nombre parfait, car ses diviseurs propres sont 1, 2 et 3, et 1 + 2 + 3 = 6. Votre programme doit déterminer si un nombre donné par l'utilisateur est un nombre parfait.

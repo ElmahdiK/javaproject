@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-//exo 5
+// Exercice 5 : "L'énigme du coffre-fort" (avec tableaux)
 public class CoffreFort {
 	String password = "pass06";
 

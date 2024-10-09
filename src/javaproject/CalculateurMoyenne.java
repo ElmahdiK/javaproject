@@ -2,6 +2,7 @@ package javaproject;
 
 import java.util.Arrays;
 
+// Exercice 1 : "Le calculateur de moyenne"
 public class CalculateurMoyenne {
 
 	static float[] notesEleve1 = {10, 20, 15};

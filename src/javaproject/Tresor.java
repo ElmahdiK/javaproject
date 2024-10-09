@@ -2,7 +2,7 @@ package javaproject;
 
 import java.util.Date;
 
-//exo 3
+// Exercice 3 : "La salle des trésors"
 public class Tresor {
 	int nbComptabilise = 1;
 	Date today = new Date();

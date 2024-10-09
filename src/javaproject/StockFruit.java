@@ -1,6 +1,6 @@
 package javaproject;
 
-//exo 1
+// Exercice 1 : "La garde des fruits"
 public class StockFruit {
 	int stockNbPomme = 100;
 	

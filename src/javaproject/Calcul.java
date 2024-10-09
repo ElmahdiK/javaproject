@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-//exo 4
+// Exercice 4 : "Le marathon de calculs" (avec tableaux)
 public class Calcul {
 	
 	public int getRandomNb(int minimum, int maximum) {

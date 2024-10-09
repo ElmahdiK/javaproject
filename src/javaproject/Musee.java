@@ -1,6 +1,6 @@
 package javaproject;
 
-// exo 2
+// Exercice 2 : "La sécurité du musée"
 public class Musee {
 	int age = 20;
 	
