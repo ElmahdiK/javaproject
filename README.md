@@ -17,4 +17,11 @@ Vous travaillez pour une école qui organise un marathon de calculs. Les élève
 Ajout : Utilisez un tableau pour stocker chaque étape de la somme.  
 
 ## Exercice 5 : "L'énigme du coffre-fort" (avec tableaux)
-Un coffre-fort contient un trésor, mais il ne s'ouvrira que si un certain mot de passe est trouvé. Ce mot de passe est une chaîne de caractères spécifique que l'utilisateur doit deviner. Le programme doit également stocker chaque tentative de mot de passe dans un tableau et afficher toutes les tentatives incorrectes à la fin.
+Un coffre-fort contient un trésor, mais il ne s'ouvrira que si un certain mot de passe est trouvé. Ce mot de passe est une chaîne de caractères spécifique que l'utilisateur doit deviner. Le programme doit également stocker chaque tentative de mot de passe dans un tableau et afficher toutes les tentatives incorrectes à la fin.  
+
+Ajout : Utilisez un tableau pour stocker chaque tentative de mot de passe incorrecte.
+
+### Initiation Java - Exercices Niveau Intermédiaire
+
+## Exercice 1 : "Le calculateur de moyenne"
+Vous êtes chargé de concevoir un programme pour une école qui veut automatiser le calcul des moyennes de plusieurs élèves. Chaque élève a plusieurs notes, et le programme doit calculer la moyenne de chaque élève, ainsi que la moyenne générale de toute la classe.
