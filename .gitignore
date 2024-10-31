@@ -1,10 +1,6 @@
-# Ignore everything
-*
-
-# But not these files...
-!.gitignore
-!README.md
-!screenshot.png
-!/src
-!/src/javaproject
-!/src/javaproject/*
+.DS_Store
+.vscode
+gitignore
+node_modules
+.env
+todo.md

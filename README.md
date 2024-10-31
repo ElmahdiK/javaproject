@@ -32,3 +32,12 @@ Vous êtes chargé de concevoir un programme pour une école qui veut automatise
 
 ### Exercice 2 : "L'énigme du nombre parfait"
 Un nombre parfait est un nombre qui est égal à la somme de ses diviseurs propres (les diviseurs strictement inférieurs à lui-même). Par exemple, 6 est un nombre parfait, car ses diviseurs propres sont 1, 2 et 3, et 1 + 2 + 3 = 6. Votre programme doit déterminer si un nombre donné par l'utilisateur est un nombre parfait.
+
+### Exercice 3 : "Les températures extrêmes"
+Un centre météorologique vous demande de développer un programme qui peut enregistrer les températures sur plusieurs jours dans différentes villes. Le programme doit stocker les températures dans un tableau à deux dimensions, et ensuite afficher la température la plus élevée et la plus basse enregistrée.
+
+### Exercice 4 : "Le traducteur de chiffres romains"
+Votre client vous demande de concevoir un programme capable de convertir des chiffres arabes (par exemple 1987) en chiffres romains (par exemple MCMLXXXVII). Le programme doit demander à l'utilisateur un nombre et ensuite afficher son équivalent en chiffres romains.
+
+### Exercice 5 : "Le générateur de mot de passe sécurisé"
+Une société vous a demandé de développer un générateur de mot de passe sécurisé. Le programme doit générer un mot de passe de longueur donnée par l'utilisateur. Le mot de passe doit contenir des lettres majuscules, des lettres minuscules, des chiffres et des symboles spéciaux. Vous devez aussi vérifier que le mot de passe généré respecte ces critères.
